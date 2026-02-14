@@ -39,7 +39,7 @@ Lately I’ve been deep in:
 ## 🔧 Projects
 
 - **arduino-labs** — Arduino experiments paired with a Rust telemetry dashboard
-- **OpenClaw experiments** — CLI agent exploration and tool runtime testing
+- **AI Agent experiments** — CLI agent exploration and tool runtime testing
 - Additional AI and systems prototypes (private repos)
 
 ---
