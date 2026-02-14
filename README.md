@@ -8,7 +8,6 @@ Lately I’ve been deep in:
 - 🧠 Long-context reasoning and model orchestration
 - 🖥️ Local-first AI (Docker, Ollama, GPU tuning, benchmarking)
 - 📡 Embedded experimentation (SDR, Arduino, Raspberry Pi, telemetry dashboards)
-- 🦀 Rust side projects and lightweight service layers
 - ⚡ Event-driven systems and automation
 
 ---
