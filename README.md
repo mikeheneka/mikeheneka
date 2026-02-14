@@ -4,7 +4,7 @@ I build systems.
 
 Lately I’ve been deep in:
 
-- 🤖 AI agents (OpenClaw, local LLM runtimes, tool execution frameworks)
+- 🤖 AI agents (OpenClaw, local ASR/LLM runtimes, tool execution frameworks)
 - 🧠 Long-context reasoning and model orchestration
 - 🖥️ Local-first AI (Docker, Ollama, GPU tuning, benchmarking)
 - 📡 Embedded experimentation (SDR, Arduino, Raspberry Pi, telemetry dashboards)
