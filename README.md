@@ -1,54 +1,40 @@
-## 👋 Hi, I'm Mike
+# Mike Heneka
 
-I build systems.
+Builder of software, systems, and platforms.
 
-Lately I’ve been deep in:
+I work at the intersection of **AI, infrastructure, and real-world systems**.
 
-- 🤖 AI agents (local ASR/LLM runtimes, tool execution frameworks)
-- 🧠 Long-context reasoning and model orchestration
-- 🖥️ Local-first AI (Docker, Ollama, GPU tuning, benchmarking)
-- 📡 Embedded experimentation (SDR, Arduino, Raspberry Pi, telemetry dashboards)
-- ⚡ Event-driven systems and automation
+🌐 **Website:** [mikeheneka.com](https://mikeheneka.com)  
+💼 **LinkedIn:** [linkedin.com/in/mikeheneka](https://www.linkedin.com/in/mikeheneka/)  
+📍 New York
 
 ---
 
-## 🧪 Current Exploration Areas
+## Areas of Interest
 
-### AI Agents & Runtime Systems
-- Incident-style agent architectures
-- Tool-augmented LLM design
-- Memory strategies for autonomous agents
-- Model switching and evaluation
-- CLI-first agent workflows
+- AI systems and agent architectures
+- Local-first AI infrastructure (LLM / ASR runtimes)
+- Event-driven and distributed systems
+- Embedded experimentation (Raspberry Pi, Arduino, SDR)
+- Data pipelines and telemetry systems
 
-### Local AI Infrastructure
-- Self-hosted LLM stacks
-- GPU benchmarking and optimization
-- Containerized inference pipelines
-- Structured prompts and tool contracts
+---
+
+## Selected Work
+
+### Systems & Platforms
+Building large-scale systems used by thousands of organizations and responders.
+
+### AI Experiments
+Local AI runtimes, agent workflows, and model orchestration.
 
 ### Hardware & Telemetry
-- Arduino and Raspberry Pi data capture
-- Rust-based dashboards (Axum)
-- Sensor ingestion pipelines
-- Edge → service data flows
+Arduino / Raspberry Pi experiments and sensor-driven dashboards.
 
 ---
 
-## 🔧 Projects
+## Currently Exploring
 
-- **arduino-labs** — Arduino experiments paired with a Rust telemetry dashboard
-- **AI Agent experiments** — CLI agent exploration and tool runtime testing
-- Additional AI and systems prototypes (private repos)
-
----
-
-## 🌱 Currently Learning
-
-- Agent orchestration architectures
-- Scalable model execution strategies
-- Efficient local compute design
-<!---
-mikeheneka/mikeheneka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Agent runtime architectures
+- Efficient local AI compute
+- Tool-augmented reasoning systems
