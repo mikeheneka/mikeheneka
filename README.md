@@ -1,32 +1,48 @@
 # Mike Heneka
 
-**VP, Product & Operations · Builder · Advisor & Mentor**
-
-I work at the intersection of **AI, mission-critical infrastructure, and real-world field systems**—leading Engineering, Product, and Operations teams while still writing code, building hardware/RF telemetry pipelines, and operating in the field.
+**VP, Respond Product & Operations · Builder · First Responder · Advisor**  
+*Scaling the world’s largest safety network — at the intersection of AI, mission-critical infrastructure, RF/audio telemetry, and real-world field operations.*
 
 🌐 **Website & Advisory:** [mikeheneka.com](https://mikeheneka.com)  
 💼 **LinkedIn:** [linkedin.com/in/mikeheneka](https://www.linkedin.com/in/mikeheneka/)  
 🎥 **YouTube (UAS & Field Film):** [youtube.com/@mikeheneka](https://www.youtube.com/user/mikeheneka)  
-📍 **Upstate New York**
+📍 **Greater Syracuse–Auburn Area, NY**
 
 ---
 
-## Background & Executive Experience
+## Executive & Technical Background
 
-- **15+ Years Scaling Mission-Critical Platforms:** Built and scaled real-time emergency response, alerting, and incident intelligence software used by **1M+ first responders and thousands of public-safety agencies worldwide**.
-- **Startup-to-Acquisition & Enterprise Scale:** Helped scale **IamResponding** (*Emergency Services Marketing Corp.*) through national acquisition by **RapidSOS**, where I serve as **VP, Respond Product & Operations**, leading multi-product post-merger integrations, B2B/OEM alliances, and global technical and operational teams.
-- **Field-First Engineering & Operations:** **FAA Part 107 Certified Remote Pilot** (autonomous UAS & Drone-as-First-Responder / DFR integrations) and **community volunteer emergency responder** in Upstate New York.
+- **Scaling the World's Largest Safety Network (`RapidSOS`):** As **VP, Respond Product & Operations**, I lead product strategy and operations for the Responder vertical—delivering mission-critical platforms connected to **500M+ devices**, **23,500+ public-safety agencies**, and supporting **500,000+ emergencies per day**.
+- **Multi-Product Portfolio & Global Engineering/Product Leadership:** Oversee a global organization of **40+ across Product, Design, Engineering, and R&D** spanning **RapidSOS UNITE**, **IamResponding**, and **eDispatches**:
+  - **Live Audio & RF Systems:** Launched **Live Audio**, a low-latency audio streaming and AI transcription platform supporting both conventional and trunked radio systems.
+  - **Incident Creator & Unified Dispatch:** Built and launched **Incident Creator** (CAD-lite workflow for agencies without traditional CAD), integrating 911, AVL/telematics, GIS, RMS, and property-level intelligence.
+  - **OEM, Carrier & Sensor Alliances:** Expanded ecosystem integrations across wearables, automotive telematics, commercial fire/alarm systems, and rail-safety hazard pre-alerting.
+- **Startup-to-Acquisition Growth (`IamResponding`):** Over 10 years, helped scale **IamResponding** from a startup into a North American standard (**9,600+ agency deployments**, **500,000+ first-responder users**), drove the **2018 acquisition and integration of TwoToneDetect** for radio-based alerting, led deep CAD/GIS/radio integrations (**Motorola**, **Hexagon**, and others), and guided the platform through acquisition by RapidSOS.
 
 ---
 
 ## Patents & Applied R&D
 
-Co-inventor on **5+ U.S. patents and patent applications** across AI incident intelligence, RF/audio dispatch processing, and geospatial telematics:
+Co-inventor on **issued U.S. patents and published patent applications** across AI incident intelligence, RF/radio dispatch processing, and geospatial telematics:
 
-- **[US Patent 12,490,072](https://patents.justia.com/inventor/michael-anthony-heneka)** — *AI-Based Real-Time Incident Response Intelligence* (Emergency Response Data System utilizing real-time AI digital assistants, vector databases of emergency procedures, and contextual incident telemetry).
-- **[US Pub. 2026/0188104](https://patents.justia.com/inventor/michael-heneka)** — *Systems and Methods of Providing Emergency Notifications to Operations Centers Using Radio-Based Dispatches* (AI/ASR transcription and automated routing of live two-way radio dispatches).
-- **[US Pub. 2026/0184258](https://patents.justia.com/inventor/michael-heneka)** — *Train Crossing Warning System, Apparatuses and Methods Therefor* (Cloud-server dynamic geofencing and real-time railway/vehicle telematics hazard prediction).
-- **[US Pub. 2024/0048952](https://patents.justia.com/inventor/michael-anthony-heneka)** — *Responder Dispatch Coordination System & Integrations* (Hybrid device location pipelines—GPS, Wi-Fi, BLE—coordinating callers, ECCs, and field units).
+- **[US Patent 12,490,072 B1](https://patents.justia.com/inventor/michael-anthony-heneka)** *(Issued Dec 2, 2025)* — *Systems and Methods for AI-Based Real-Time Incident Response Intelligence* (Real-time AI digital assistant, vector databases of agency SOPs, and contextual incident telemetry).
+- **[US Patent 12,288,459 B1](https://patents.justia.com/inventor/michael-heneka)** *(Issued Apr 29, 2025)* — *Systems and Methods of Providing Emergency Notifications to Operations Centers Using Radio-Based Dispatches* (Low-latency RF/audio ingestion, AI/ASR transcription, and automated routing of live two-way radio dispatches).
+- **[US Pub. 2026/0184258](https://patents.justia.com/inventor/michael-heneka)** — *Train Crossing Warning System, Apparatuses and Methods Therefor* (Dynamic cloud geofencing and real-time railway/vehicle telematics hazard pre-alerting).
+- **[US Pub. 2024/0048952](https://patents.justia.com/inventor/michael-anthony-heneka)** — *Responder Dispatch Coordination System & Integrations* (Hybrid caller/responder location pipelines—GPS, Wi-Fi, BLE—coordinating ECCs and field units).
+
+---
+
+## Field Service, Certifications & Education
+
+- **20+ Years as a First Responder (Volunteering):**
+  - **Liverpool Fire Department, NY** — *Lieutenant, Interior Firefighter, Emergency Medical Technician (EMT) & Executive Board Member*
+  - **Manlius Fire Department, NY** — *Interior Firefighter, Emergency Medical Technician (EMT) & Executive Board Member*
+- **Licenses & Certifications (27+ Credentials):**
+  - **FAA Part 107 Certified Remote Pilot** (*Small UAS Recurrent, Issued Dec 2025*) — Autonomous UAS & Drone-as-First-Responder (DFR) field operations
+  - **NYS Rescue Technician – Basic** (*NYS Division of Homeland Security & Emergency Services, Issued Jul 2024*)
+- **Education:**
+  - **Empire State University** — *B.S. in Business Administration, Summa Cum Laude* (Capstones in Strategic Management & Project Management)
+  - **Columbia College** — *A.S. in General Studies*
 
 ---
 
@@ -42,10 +58,9 @@ Co-inventor on **5+ U.S. patents and patent applications** across AI incident in
 
 ---
 
-## Areas of Focus
+## Areas of Focus & Tooling
 
-- Agentic AI workflows & local-first multimodal runtimes (LLM / ASR / OCR)
-- Real-time CAD, GIS, and emergency dispatch architectures
-- Autonomous UAS / Drone-as-First-Responder (DFR) & FAA Part 107 operations
-- Embedded systems & RF telemetry (Raspberry Pi, Arduino, OTA ATSC, RTL-SDR)
-- Commercial, product, and operational advisory for SMBs, municipalities, and venture-backed teams
+- **AI & Agentic Engineering:** Local-first multimodal runtimes (LLM / ASR / OCR), AI-assisted development (`Cursor AI`, `Antigravity`, `Replit`), and edge inference
+- **Mission-Critical Systems:** Real-time CAD, 911, GIS, AVL/telematics, and conventional/trunked radio streaming architectures
+- **Hardware & RF Telemetry:** Autonomous UAS / DFR (FAA Part 107), Raspberry Pi, Arduino (`ATmega328P`), OTA ATSC, and RTL-SDR
+- **Executive Advisory:** Product, M&A integration, and operational advisory for SMBs, municipalities, and venture-backed teams
