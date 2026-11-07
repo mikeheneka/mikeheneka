@@ -2,7 +2,7 @@
 
 Builder of software, systems, and platforms.
 
-I work at the intersection of **AI, mission-critical infrastructure, and real-world field systems**—shaped by 15+ years building large-scale public safety platforms and 20+ years in the field as a first responder.
+I work at the intersection of **AI, infrastructure, and real-world systems**.
 
 🌐 **Website:** [mikeheneka.com](https://mikeheneka.com)  
 💼 **LinkedIn:** [linkedin.com/in/mikeheneka](https://www.linkedin.com/in/mikeheneka/)  
@@ -12,31 +12,32 @@ I work at the intersection of **AI, mission-critical infrastructure, and real-wo
 
 ## Areas of Interest
 
-- AI systems, agent architectures, and AI-powered operational workflows
-- Local-first AI infrastructure (LLM / ASR / OCR runtimes at the edge)
-- Real-time RF, live audio streaming (conventional & trunked radio), and SDR pipelines
-- Geospatial intelligence, AVL / telematics, and sensor data fusion
-- Embedded experimentation & field hardware (Raspberry Pi, Arduino, OTA ATSC, FAA Part 107 UAS)
+- AI systems, agent architectures, and AI-powered workflows
+- Local-first AI infrastructure (LLM, ASR, and OCR runtimes at the edge)
+- Event-driven, geospatial, and distributed systems
+- Embedded experimentation (Raspberry Pi, Arduino, OTA RF / SDR)
+- Real-time data pipelines, sensor fusion, and telemetry systems
 
 ---
 
 ## Selected Work
 
 ### Systems & Platforms
-Building mission-critical, real-time alerting, dispatch, and incident intelligence systems connected to hundreds of millions of devices and used by thousands of public-safety agencies and responders.
+Building large-scale, mission-critical systems and mobile/web platforms that unify real-time location, radio, and sensor data into actionable intelligence.
 
-### Real-Time Telemetry & Edge AI
-- **[`hdhr-sports-tracker`](https://github.com/mikeheneka/hdhr-sports-tracker)** — Edge-computed, sub-second NFL broadcast telemetry and live web dashboard running on Apple Silicon (`ccextractor` + Tesseract OCR over live HDHomeRun OTA streams).
-- **[`OpenClaw`](https://github.com/mikeheneka/OpenClaw)** — Lightweight Python CLI utility for network latency and toolchain verification.
+### AI & Edge Telemetry
+Local AI runtimes, agent workflows, and real-time multimodal pipelines:
+- **[`hdhr-sports-tracker`](https://github.com/mikeheneka/hdhr-sports-tracker)** — Edge-computed NFL broadcast telemetry and live web dashboard using HDHomeRun OTA streams, `ccextractor`, and Tesseract OCR.
 
-### Hardware, RF & Embedded Systems
-- **[`kids-tv`](https://github.com/mikeheneka/kids-tv)** — Child-friendly live OTA TV player for Raspberry Pi and Linux desktops powered by SiliconDust HDHomeRun tuners, `PyQt5`, and `mpv`.
-- **[`arduino-labs`](https://github.com/mikeheneka/arduino-labs)** — Arduino Uno (`ATmega328P`) hardware sketches paired with a real-time **Rust** (`Axum` + `SQLite`) serial telemetry collector and live web dashboard.
+### Hardware & Embedded Systems
+Arduino / Raspberry Pi experiments, OTA RF streaming, and sensor-driven dashboards:
+- **[`kids-tv`](https://github.com/mikeheneka/kids-tv)** — Live OTA TV player for Raspberry Pi and Linux desktops built with Python, `PyQt5`, and `mpv`.
+- **[`arduino-labs`](https://github.com/mikeheneka/arduino-labs)** — Arduino Uno (`ATmega328P`) sketches paired with a Rust (`Axum` + `SQLite`) serial telemetry collector and live dashboard.
 
 ---
 
 ## Currently Exploring
 
-- Multi-agent runtime architectures and tool-augmented reasoning
-- Low-latency local multimodal pipelines (RF / live audio / video / OCR)
-- Edge compute on Apple Silicon and embedded Linux
+- Agent runtime architectures and AI-native development workflows
+- Efficient local AI compute and edge inference on Apple Silicon
+- Tool-augmented reasoning and real-time telemetry systems
